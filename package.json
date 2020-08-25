@@ -1,0 +1,23 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pupilek/node-farm-project.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript-html-css"
+  ],
+  "author": "Andrii Loburets, Jonas Schmedtmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pupilek/node-farm-project/issues"
+  },
+  "homepage": "https://github.com/Pupilek/node-farm-project#readme"
+}
